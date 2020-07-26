@@ -1,0 +1,106 @@
+body{
+    text-align: center;
+    background-image: url();
+    background-color: #787878;
+    min-width: 383px !important;
+    justify-content: center !important;
+
+}
+h1{
+    margin: 0;
+    padding: 0;
+    color: white;
+    
+}
+.btan{
+   background-color: red; 
+   color: white;
+   padding: 10px;border-radius: 20px 20px 20px 20px;
+   text-transform: capitalize;
+   text-indent: bold;
+   text-align: right;
+  /* float: right !important;*/
+   margin-left: 35px !important;
+
+}
+.promt{
+background-color: black;
+}
+input{
+    width: 50%;
+    height: 60px;
+    border-radius: 10px;
+    border: 1px solid burlywood;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: large;
+    border-top: 1em solid red;
+    border-bottom: 1px solid white;
+}
+h1{
+    
+    color: black;
+    margin: auto;
+    padding: auto;
+    text-align: center;
+    text-shadow:  20px  white;
+}
+ul{
+    text-decoration: none;
+    list-style: none;
+    font-weight: bold;
+    margin: 0px;
+    padding: 0px;
+    
+    
+    
+    text-align: center;
+}
+.sajid{
+    background-color: green;
+}
+.btan:hover{
+    background-color: greenyellow;
+}
+button{
+    text-size-adjust: 50px;
+    height: 60px;
+    border-radius: 10px;
+    background: purple;
+    text-weight:bold;
+    color: whitesmoke;
+    font-weight: bold;
+}
+.styling{
+    text-align: center;
+    color: black;
+    background-color: tomato;
+    border-radius: 80px 20px 80px 20px;
+    width: 5px;
+margin-top: 5px;
+cursor: pointer;
+transition: 3s ease-in-out;
+    
+    
+
+
+}
+li{
+    font-size: 24px !important;
+    width: auto !important;
+    text-align: left;
+    padding: 3px !important;
+    padding-bottom: 6px !important;
+    margin-bottom: 3px !important;
+    border-bottom: 0.5px solid gray !important;
+
+}
+button:hover{
+    background-color: chartreuse;
+    color: black;
+}
+.styling:hover{
+    transform: translateX(-3em);
+
+}
